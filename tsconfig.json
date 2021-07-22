@@ -77,6 +77,6 @@
     
     "preserveConstEnums": true
   },
-  "include": ["src", "src/types/react-app-env.d.ts","src/types/declarations.d.ts" ],
+  "include": ["src", "src/types/react-app-env.d.ts","src/types/declarations.d.ts", "app.ts" ],
   "exclude": ["node_modules", "build"]
 }

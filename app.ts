@@ -1,5 +1,5 @@
 import express from 'express';
-import categories from './category/router'
+import categories from './src/category/router'
 import cors from 'cors'
 import {json}from 'body-parser'
 
