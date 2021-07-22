@@ -9,7 +9,7 @@ app.use(cors())// settings port
 
 app.use('/api/categories', categories)
 app.get('/', async (req , res )=>{
-    res.send('hellloing')
+    res.send('Iam server EFK')
 })
 
 
